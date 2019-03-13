@@ -1,0 +1,5 @@
+/.idea/*
+*.pyc
+/output/*
+/resources/*
+/test/*
