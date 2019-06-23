@@ -149,7 +149,9 @@ python graph.py -c "../../output/clusters.xml" -a ../../resources/ACL_Anthology 
 Detailed information about the results are provided by [README.md](results/README.md)
 
 ## Publications
-accepted in <i>Proceedings of 16th International Conference, ESWC 2019, Portorož, Slovenia, 2nd - 6th June, 2019</i>
+Roger Ferrod, Claudio Schifanella, Luigi Di Caro, Mario Cataldi.: Disclosing Citation Meanings for Augmented Research Retrieval and Exploration.: In Proceedings of 16th International Conference, ESWC 2019, Portorož, Slovenia, 2nd - 6th June, 2019
+</br>
+https://link.springer.com/chapter/10.1007/978-3-030-21348-0_7
 
 ## Authors
 
